@@ -1,0 +1,3 @@
+﻿TingReaderV1.1
+TingReaderV1.0
+TingReaderV1.2
